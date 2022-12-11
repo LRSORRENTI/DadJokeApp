@@ -1,1 +1,9 @@
-@import url();
+@import url(fonts/Teko-Regular.ttf);
+body {
+  font-family: cursive;
+  background-color: beige;
+}
+h1 {
+  color: aquamarine;
+  font-family: cursive;
+}
