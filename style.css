@@ -1,9 +1,7 @@
-@import url(fonts/Teko-Regular.ttf);
-body {
-  font-family: cursive;
-  background-color: beige;
+@font-face {
+  font-family: "Teko";
+  src: url(/fonts/Teko-Regular.ttf);
 }
-h1 {
-  color: aquamarine;
-  font-family: cursive;
+* {
+  font-family: "Teko";
 }
